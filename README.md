@@ -10,4 +10,4 @@ There are some drawbacks, however
 - The method described here requires a good deal of technical skill.  Converting images to and from bit streams for everyday use requires a good deal of knowledge.
 - SQL Server has no 'understanding' of what data is in a VarBinary(Max) column type.  The data could just as easily be a PDF, a spreadsheet or an image file. To SQL Server your data is simply a long string of ones and zeroes.
 
-If you think this method is for you please find in this repository a working example Access/VBA application, a create table query to generate the Images table used in the example and a Word document describing the method in detail.
+If you think this method is for you please find in this repository a working example Access/VBA application, a create table query to generate the Images table used in the example and a [Word document](Access_SQLServer_ImagesDatabase.docx) describing the method in detail.
